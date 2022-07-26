@@ -1,0 +1,6 @@
+Personal Access token para esta aplicación
+
+usar en vez del password al hacer operaciones con git. 
+por ejemplo, git push origin master
+
+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
